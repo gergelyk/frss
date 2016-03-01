@@ -1,0 +1,6 @@
+beautifulsoup4>=4.3.2
+configobj>=4.7.2
+readability-lxml>=0.3.0.5
+feedparser>=5.1.2
+requests>=2.2.1
+
