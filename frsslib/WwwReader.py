@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#Author: Grzegorz Krason
-#webpage: http://krason.biz/#frss
-
 from readability.readability import Document
 import requests
 from bs4 import BeautifulSoup

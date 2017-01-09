@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#Author: Grzegorz Krason
-#webpage: http://krason.biz/#frss
-
 import pickle
 import os.path
 
