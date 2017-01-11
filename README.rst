@@ -4,6 +4,11 @@ FRSS
 
 Lightweight RSS Reader. Capable of displaying the full text associated with entries of some channels.
 
+.. image:: http://krason.me/software/frss/frss01.png
+   :scale: 30 %
+   :alt: frss
+   :align: left
+
 Overview
 --------
 
